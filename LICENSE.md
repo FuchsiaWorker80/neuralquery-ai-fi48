@@ -1,4 +1,4 @@
-# 
+# Exclusive NeuralQuery toolkit. Download and install with gui-available and cross-platform — fast, secure, and easy to use.
 
 
 
